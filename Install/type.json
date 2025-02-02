@@ -1,0 +1,7 @@
+{
+	"app_type" : "fintech",
+	"name" : "Fintech",
+	"description" : "Fintech",
+	"version" : "0.0.0",
+	"repo" : "https://github.com/sp-fintech/fintech"
+}
